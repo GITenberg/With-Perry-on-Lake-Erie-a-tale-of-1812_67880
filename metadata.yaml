@@ -1,0 +1,45 @@
+_repo: With-Perry-on-Lake-Erie-a-tale-of-1812_67880
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stecher, William F. (William Frederick)
+    alias: Stecher, William Frederick
+    birthdate: 1864
+    gutenberg_agent_id: '25257'
+    url: http://www.gutenberg.org/2009/agents/25257
+creator:
+  author:
+    agent_name: Otis, James
+    aliases:
+    - Kaler, James Otis
+    - Orton, James K.
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49402
+    - https://en.wikipedia.org/wiki/James_Otis_Kaler
+description: ''
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67880'
+  lccn: '99004663'
+language: en
+pgterms:marc904: https://archive.org/details/withperryonlakee00otis/page/n8/mode/2up
+pgterms:marc905: 20200409155322otis
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :W.A. Wilde Co.,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- War of 1812 -- Juvenile fiction'
+- GITenberg
+title: 'With Perry on Lake Erie: a tale of 1812'
+url: http://www.gutenberg.org/ebooks/67880
