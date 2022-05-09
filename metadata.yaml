@@ -7,6 +7,9 @@ contributor:
     birthdate: 1864
     gutenberg_agent_id: '25257'
     url: http://www.gutenberg.org/2009/agents/25257
+covers:
+- cover_type: archival
+  image_path: 67880-h/images/cover.jpg
 creator:
   author:
     agent_name: Otis, James
@@ -21,6 +24,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49402
     - https://en.wikipedia.org/wiki/James_Otis_Kaler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67880#With-Perry-on-Lake-Erie-a-tale-of-1812
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67880'
